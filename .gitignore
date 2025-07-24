@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+*.sqlite3
+
+# Node / React
+node_modules/
+build/
+dist/
+.env.local
+
+# VS Code
+.vscode/
+
+# Logs and temp files
+*.log
+debug.txt
+
+
+add .gitignore
